@@ -29,7 +29,7 @@
     "babel-plugin-superjson-next": "0.4.5",
     "bcryptjs": "2.4.3",
     "classnames": "2.3.2",
-    "cookies-next": "2.1.1",
+    "cookies-next": "4.3.0",
     "formik": "2.2.9",
     "moment": "2.29.4",
     "next-auth": "4.20.1",
